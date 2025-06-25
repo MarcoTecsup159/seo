@@ -1,11 +1,9 @@
 export default async function handler(req, res) {
-  // Simula obtener datos de tu base de datos o CMS
+  //simular obtener datos de tu base de datos o CMS
   const pages = [
     { url: '', lastmod: '2024-06-24' },  // Home
     { url: 'blog', lastmod: '2024-06-20' },  // Blog
     { url: 'contacto', lastmod: '2024-06-22' },  // Contacto
-    // Aquí puedes traer dinámicamente de tu base de datos
-    // Ejemplo: posts.map(post => ({ url: `blog/${post.slug}`, lastmod: post.updatedAt }))
   ];
 
   const baseUrl = 'https://www.tudominio.com';
