@@ -11,8 +11,8 @@ export default function Home() {
         <meta property="og:title" content="Tienda de Don Marco | Productos de Calidad" />
         <meta property="og:description" content="Bienvenido a Tienda de Don Marco. Descubre productos de alta calidad al mejor precio." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.tiendaabc.com" />
-        <meta property="og:image" content="https://www.tiendaabc.com/og-home.jpg" />
+        <meta property="og:url" content="images/arriba.jpg" />
+        <meta property="og:image" content="https://www.tiendadedonmarco.com/og-home.jpg" />
       </Head>
       <main>
         <h1>Bienvenido a Tiendita de Don Marco</h1>
